@@ -24,10 +24,38 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 
 ## 🖼️ Screenshots
 
-*(Add images here once available)*  
-Example:
+### 🖼️ Saved Images
+![Saved Images](Images/Screenshot (591).png)
 
+### 🖼️ Open LookAtPDF.exe
+![Homepage](Images/Screenshot (596).png)
 
+### 🖼️ Background Changing, Header Moving feature 
+![Homepage](Images/Screenshot (597).png)
+
+### 🖼️ Select Folder to get all Images
+![Homepage](Images/Screenshot (600).png)
+
+### 🖼️ Generate PDF
+![Homepage](Images/Screenshot (602).png)
+
+### 🖼️ View Generated PDF
+![Homepage](Images/Screenshot (603).png)
+
+### 📚 Selecting PDF Files for merging
+![Homepage](Images/Screenshot (605).png)
+
+### 📚 Merge PDF Files
+![Homepage](Images/Screenshot (607).png)
+
+### 📚 View Merged PDF Files
+![Homepage](Images/Screenshot (608).png)
+
+### 📚 Select PDF to Make Images
+![Homepage](Images/Screenshot (609).png)
+
+### 📚 Finally 
+![Homepage](Images/Screenshot (610).png)
 
 ---
 
@@ -44,35 +72,14 @@ Example:
 
 ## 🛠️ Installation & Running (From Source)
 
-1. **Clone the Repository**
+1. **Download the LookAtPDF.exe**
 
-```bash
-git clone https://github.com/your-username/pdf-utility-tool.git
-cd pdf-utility-tool
-'''
-
-## 🚀 Tech Stack
-
-- **Python 3**
-- **Tkinter** – for GUI
-- **Pillow (PIL)** – for image processing
-- **PyMuPDF (fitz)** – for PDF to image conversion
-- **PyPDF2** – for merging PDF files
-- **PyInstaller** – for creating the `.exe` file
-
-## 🛠️ Installation & Running (From Source)
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/pdf-utility-tool.git
-cd pdf-utility-tool
 📋 Requirements
-Python 3.7 or above
+Windows (any version)
 
-Recommended: virtualenv for clean dependency management
-
-![Screenshot (610)](https://github.com/user-attachments/assets/f387de1b-19db-46ec-89c2-c2911f098783)
+📋 Optinal
+Python 3.7 or above (not necessary)
+Recommended: virtualenv for clean dependency management (not necessary)
 
 
 # Use Cases
@@ -83,5 +90,5 @@ Split or rearrange content by merging selected pages.
 Extract pages from a PDF as images for annotation or sharing.
 
 🙌 Credits
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Hrishikesh Jadhav]
 Feel free to fork, star, or contribute to improve the tool!
