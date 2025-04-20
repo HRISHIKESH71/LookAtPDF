@@ -49,9 +49,7 @@ Example:
 ```bash
 git clone https://github.com/your-username/pdf-utility-tool.git
 cd pdf-utility-tool
-
-
----
+'''
 
 ## 🚀 Tech Stack
 
@@ -62,8 +60,6 @@ cd pdf-utility-tool
 - **PyPDF2** – for merging PDF files
 - **PyInstaller** – for creating the `.exe` file
 
----
-'''
 ## 🛠️ Installation & Running (From Source)
 
 1. **Clone the Repository**
@@ -76,7 +72,10 @@ Python 3.7 or above
 
 Recommended: virtualenv for clean dependency management
 
- Use Cases
+![Screenshot (610)](https://github.com/user-attachments/assets/f387de1b-19db-46ec-89c2-c2911f098783)
+
+
+# Use Cases
 Combine multiple scanned images into a single PDF.
 
 Split or rearrange content by merging selected pages.
