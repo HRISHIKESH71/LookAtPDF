@@ -22,7 +22,7 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Working exe file
 
 ### 🖼️ Saved Images
 ![Saved Images](Images/Screenshot (591).png)
