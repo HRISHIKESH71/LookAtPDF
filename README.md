@@ -63,7 +63,7 @@ cd pdf-utility-tool
 - **PyInstaller** – for creating the `.exe` file
 
 ---
-
+'''
 ## 🛠️ Installation & Running (From Source)
 
 1. **Clone the Repository**
