@@ -28,35 +28,55 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 <p align="center">
   <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(591).png" alt="Saved Images" width="500"/>
 </p>
-### 🖼️ Open LookAtPDF.exe
-![Homepage](Images/Screenshot (596).png)
+<h3 align="center">🖼️ Open LookAtPDF.exe</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(596).png" alt="Open LookAtPDF.exe" width="500"/>
+</p>
 
-### 🖼️ Background Changing, Header Moving feature 
-![Homepage](Images/Screenshot (597).png)
+<h3 align="center">🖼️ Background Changing, Header Moving Feature</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(597).png" alt="Background Changing and Header Moving" width="500"/>
+</p>
 
-### 🖼️ Select Folder to get all Images
-![Homepage](Images/Screenshot (600).png)
+<h3 align="center">🖼️ Select Folder to Get All Images</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(600).png" alt="Select Folder for Images" width="500"/>
+</p>
 
-### 🖼️ Generate PDF
-![Homepage](Images/Screenshot (602).png)
+<h3 align="center">🖼️ Generate PDF</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(602).png" alt="Generate PDF" width="500"/>
+</p>
 
-### 🖼️ View Generated PDF
-![Homepage](Images/Screenshot (603).png)
+<h3 align="center">🖼️ View Generated PDF</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(603).png" alt="View Generated PDF" width="500"/>
+</p>
 
-### 📚 Selecting PDF Files for merging
-![Homepage](Images/Screenshot (605).png)
+<h3 align="center">📚 Selecting PDF Files for Merging</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(605).png" alt="Select PDFs for Merging" width="500"/>
+</p>
 
-### 📚 Merge PDF Files
-![Homepage](Images/Screenshot (607).png)
+<h3 align="center">📚 Merge PDF Files</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(607).png" alt="Merge PDFs" width="500"/>
+</p>
 
-### 📚 View Merged PDF Files
-![Homepage](Images/Screenshot (608).png)
+<h3 align="center">📚 View Merged PDF Files</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(608).png" alt="View Merged PDFs" width="500"/>
+</p>
 
-### 📚 Select PDF to Make Images
-![Homepage](Images/Screenshot (609).png)
+<h3 align="center">📚 Select PDF to Make Images</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(609).png" alt="PDF to Images" width="500"/>
+</p>
 
-### 📚 Finally 
-![Homepage](Images/Screenshot (610).png)
+<h3 align="center">📚 Finally</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(610).png" alt="Final Output" width="500"/>
+</p>
 
 ---
 
