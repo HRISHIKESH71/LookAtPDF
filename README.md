@@ -73,6 +73,11 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
   <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(611).png" alt="PDF to Images" width="700"/>
 </p>
 
+<h3 align="center">📚 Show Images</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(614).png" alt="PDF to Images" width="700"/>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
