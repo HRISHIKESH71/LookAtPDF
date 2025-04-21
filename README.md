@@ -70,12 +70,7 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 
 <h3 align="center">📚 Select PDF to Make Images</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(609).png" alt="PDF to Images" width="700"/>
-</p>
-
-<h3 align="center">📚 Finally</h3>
-<p align="center">
-  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(610).png" alt="Final Output" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/LookAtPDF/raw/main/Images/Screenshot%20(611).png" alt="PDF to Images" width="700"/>
 </p>
 
 ---
